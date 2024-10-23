@@ -1,6 +1,6 @@
 ## nicolas-c-digo344
 
-## linguagem de programação
+## Linguagem de Programação
 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
 
@@ -14,7 +14,7 @@
 
 
 
-##Sistemas Operacionais
+## Sistemas Operacionais
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -26,13 +26,16 @@
 
 
 
-##Banco de Dados
+## Banco de Dados
 
 ![MYSGL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
+![MARIAB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Estatisticas
+![NicolasGitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-code344&hide=contribs,prs)
 
 
 
